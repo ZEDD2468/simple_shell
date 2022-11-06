@@ -1,1 +1,1 @@
-Collaborating with Abba adebayo on the simple shell project
+collaborating with adebayo and abba on simple shell task 
